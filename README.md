@@ -19,7 +19,7 @@ This project is a group effort developed to analytically model, simulate, and ve
 * **Simscape:** Simulation of the non-linear physical mechanism.
 
 ## 🎯 Project Summary & Methodology
-1. **Mathematical Modeling:** The non-linear equations of motion of the system were derived and then linearized using the small-angle approximation `sin(θ) ≈ θ`, `cos(θ) ≈ 1`, `(dθ/dt)²v ≈ 0`.
+1. **Mathematical Modeling:** The non-linear equations of motion of the system were derived and then linearized using the small-angle approximation `sin(θ) ≈ θ`, `cos(θ) ≈ 1`, `(dθ/dt)² ≈ 0`.
 3. **State-Space Representation:** The LTI (Linear Time-Invariant) model of the system was constructed in matrix format based on the linearized equations.
 4. **Comparative Analysis:** By varying parameters such as mass (m, M), pendulum length (l), and initial angle (θ₀), the system's responses were analyzed. The linear and non-linear mathematical models in Simulink were extensively compared with the physical mechanism simulated in Simscape.
 
