@@ -9,7 +9,7 @@ This project is a group effort developed to analytically model, simulate, and ve
 * **Simscape:** Simulation of the non-linear physical mechanism.
 
 ## 🎯 Project Summary & Methodology
-1. **Mathematical Modeling:** The non-linear equations of motion of the system were derived and then linearized using the small-angle approximation (sin(θ) ≈ θ, cos(θ) ≈ 1, (dθ/dt)^2 ≈ 0).
+1. **Mathematical Modeling:** The non-linear equations of motion of the system were derived and then linearized using the small-angle approximation `(sin(θ) ≈ θ`, `cos(θ) ≈ 1`, `(dθ/dt)^2 ≈ 0)`.
 3. **State-Space Representation:** The LTI (Linear Time-Invariant) model of the system was constructed in matrix format based on the linearized equations.
 4. **Comparative Analysis:** By varying parameters such as mass (m, M), pendulum length (l), and initial angle (θ₀), the system's responses were analyzed. The linear and non-linear mathematical models in Simulink were extensively compared with the physical mechanism simulated in Simscape.
 
@@ -29,7 +29,7 @@ Bu proje, bir sarkaç-araba (inverted pendulum) mekanizmasının kontrolörsüz 
 * **Simscape:** Doğrusal olmayan (Non-linear) fiziksel mekanizma simülasyonu.
 
 ## 🎯 Proje Özeti ve Yapılanlar
-1. **Matematiksel Modelleme:** Sistemin doğrusal olmayan hareket denklemleri türetilmiş ve küçük açı yaklaşımı kullanılarak (sin(θ) ≈ θ, cos(θ) ≈ 1, (dθ/dt)^2 ≈ 0) doğrusallaştırılmıştır.
+1. **Matematiksel Modelleme:** Sistemin doğrusal olmayan hareket denklemleri türetilmiş ve küçük açı yaklaşımı kullanılarak `(sin(θ) ≈ θ`, `cos(θ) ≈ 1`, `(dθ/dt)^2 ≈ 0)` doğrusallaştırılmıştır.
 2. **State-Space (Durum-Uzay):** Doğrusal denklemler üzerinden sistemin LTI (Linear Time-Invariant) modeli matris formatında oluşturulmuştur.
 3. **Karşılaştırmalı Analiz:** Kütle (m, M), uzunluk (l) ve başlangıç açısı (θ₀) gibi parametreler değiştirilerek, sistemin Simulink'teki doğrusal ve doğrusal olmayan matematiksel modelleri ile Simscape'teki fiziksel modeli karşılaştırılmıştır.
 
