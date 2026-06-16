@@ -13,7 +13,7 @@ This project is a group effort developed to analytically model, simulate, and ve
 2. **State-Space Representation:** The LTI (Linear Time-Invariant) model of the system was constructed in matrix format based on the linearized equations.
 3. **Comparative Analysis:** By varying parameters such as mass (m, M), pendulum length (l), and initial angle (θ₀), the system's responses were analyzed. The linear and non-linear mathematical models in Simulink were extensively compared with the physical mechanism simulated in Simscape.
 
-## 💡 Key Conclusion
+## 💡 Conclusion
 The linear Simulink model mathematically yields accurate results only within a strict "small-angle" boundary (θ₀ < 15°). In contrast, both the non-linear Simulink model and the Simscape model accurately simulated the physical free-fall behavior without any angle limitations.
 
 ---
@@ -33,5 +33,5 @@ Bu proje, bir sarkaç-araba (inverted pendulum) mekanizmasının kontrolörsüz 
 2. **State-Space (Durum-Uzay):** Doğrusal denklemler üzerinden sistemin LTI (Linear Time-Invariant) modeli matris formatında oluşturulmuştur.
 3. **Karşılaştırmalı Analiz:** Kütle (m, M), uzunluk (l) ve başlangıç açısı (θ₀) gibi parametreler değiştirilerek, sistemin Simulink'teki doğrusal ve doğrusal olmayan matematiksel modelleri ile Simscape'teki fiziksel modeli karşılaştırılmıştır.
 
-## 💡 Kilit Sonuç
+## 💡 Sonuç
 Doğrusal model yalnızca dar bir "küçük açı" sınırı içinde (θ₀ < 15°) matematiksel olarak doğru sonuç verirken; Simulink'teki doğrusal olmayan model ve Simscape modeli, herhangi bir açı kısıtlaması olmadan fiziksel serbest düşüşü gerçeğe uygun şekilde simüle etmiştir.
