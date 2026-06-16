@@ -3,7 +3,7 @@
 
 >  🇹🇷 Türkçe *Proje hataları fark edildikçe düzeltilecek ve proje sürekli olarak daha iyi hale getirilecektir.*
 
-# Ters Sarkaç (Inverted Pendulum) - Analitik Analiz ve Simülasyon
+# # Inverted Pendulum - Analytical Analysis & Simulation / Ters Sarkaç - Analitik Analiz & Simülasyon
 
 
 **Language:** [English](#english) | [Türkçe](#türkçe)
