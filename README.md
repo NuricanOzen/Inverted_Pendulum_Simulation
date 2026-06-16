@@ -1,3 +1,4 @@
+![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow)
 
 >  🇬🇧 English *As bugs are identified, they will be fixed, and the project will be continuously improved.*
 
