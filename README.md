@@ -1,4 +1,13 @@
+
+>  🇬🇧 English *As bugs are identified, they will be fixed, and the project will be continuously improved.*
+
+>  🇹🇷 Türkçe *Proje hataları fark edildikçe düzeltilecek ve proje sürekli olarak daha iyi hale getirilecektir.*
+
+**Language:** [English](#english) | [Türkçe](#türkçe)
+
 # Inverted Pendulum - Analytical Analysis & Simulation
+<a id="english"></a>
+## 🇬🇧 English
 
 This project is a group effort developed to analytically model, simulate, and verify the uncontrolled free-fall behavior of an inverted pendulum-cart mechanism.
 
@@ -17,6 +26,9 @@ This project is a group effort developed to analytically model, simulate, and ve
 The linear Simulink model mathematically yields accurate results only within a strict "small-angle" boundary (θ₀ < 15°). In contrast, both the non-linear Simulink model and the Simscape model accurately simulated the physical free-fall behavior without any angle limitations.
 
 ---
+
+<a id="türkçe"></a>
+## 🇹🇷 Türkçe
 
 # Ters Sarkaç (Inverted Pendulum) - Analitik Analiz ve Simülasyon
 
