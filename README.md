@@ -40,7 +40,7 @@ Bu proje, bir sarkaç-araba (inverted pendulum) mekanizmasının kontrolörsüz 
 * **Simscape:** Doğrusal olmayan (Non-linear) fiziksel mekanizma simülasyonu.
 
 ## 🎯 Proje Özeti ve Yapılanlar
-1. **Matematiksel Modelleme:** Sistemin doğrusal olmayan hareket denklemleri türetilmiş ve küçük açı yaklaşımı kullanılarak `(sin(θ) ≈ θ`, `cos(θ) ≈ 1`, `(dθ/dt)^2 ≈ 0)` doğrusallaştırılmıştır.
+1. **Matematiksel Modelleme:** Sistemin doğrusal olmayan hareket denklemleri türetilmiş ve küçük açı yaklaşımı kullanılarak `sin(θ) ≈ θ`, `cos(θ) ≈ 1`, `(dθ/dt)^2 ≈ 0` doğrusallaştırılmıştır.
 2. **State-Space (Durum-Uzay):** Doğrusal denklemler üzerinden sistemin LTI (Linear Time-Invariant) modeli matris formatında oluşturulmuştur.
 3. **Karşılaştırmalı Analiz:** Kütle (m, M), uzunluk (l) ve başlangıç açısı (θ₀) gibi parametreler değiştirilerek, sistemin Simulink'teki doğrusal ve doğrusal olmayan matematiksel modelleri ile Simscape'teki fiziksel modeli karşılaştırılmıştır.
 
