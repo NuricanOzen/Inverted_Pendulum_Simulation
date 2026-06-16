@@ -3,8 +3,8 @@
 
 >  🇹🇷 Türkçe *Proje hataları fark edildikçe düzeltilecek ve proje sürekli olarak daha iyi hale getirilecektir.*
 
-# 🇬🇧 Inverted Pendulum - Analytical Analysis & Simulation 
-# 🇹🇷 Ters Sarkaç - Analitik Analiz & Simülasyon
+🇬🇧 #  Inverted Pendulum - Analytical Analysis & Simulation 
+🇹🇷  # Ters Sarkaç - Analitik Analiz & Simülasyon
 
 
 **Language:** [English](#english) | [Türkçe](#türkçe)
