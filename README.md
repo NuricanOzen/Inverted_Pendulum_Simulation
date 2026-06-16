@@ -3,8 +3,8 @@
 
 >  🇹🇷 Türkçe *Proje hataları fark edildikçe düzeltilecek ve proje sürekli olarak daha iyi hale getirilecektir.*
 
-# # 🇬🇧 Inverted Pendulum - Analytical Analysis & Simulation 
-# # 🇹🇷 Ters Sarkaç - Analitik Analiz & Simülasyon
+# 🇬🇧 Inverted Pendulum - Analytical Analysis & Simulation 
+# 🇹🇷 Ters Sarkaç - Analitik Analiz & Simülasyon
 
 
 **Language:** [English](#english) | [Türkçe](#türkçe)
@@ -21,8 +21,8 @@ This project is a group effort developed to analytically model, simulate, and ve
 
 ## 🎯 Project Summary & Methodology
 1. **Mathematical Modeling:** The non-linear equations of motion of the system were derived and then linearized using the small-angle approximation `sin(θ) ≈ θ`, `cos(θ) ≈ 1`, `(dθ/dt)² ≈ 0`.
-3. **State-Space Representation:** The LTI (Linear Time-Invariant) model of the system was constructed in matrix format based on the linearized equations.
-4. **Comparative Analysis:** By varying parameters such as mass (m, M), pendulum length (l), and initial angle (θ₀), the system's responses were analyzed. The linear and non-linear mathematical models in Simulink were extensively compared with the physical mechanism simulated in Simscape.
+2. **State-Space Representation:** The LTI (Linear Time-Invariant) model of the system was constructed in matrix format based on the linearized equations.
+3. **Comparative Analysis:** By varying parameters such as mass (m, M), pendulum length (l), and initial angle (θ₀), the system's responses were analyzed. The linear and non-linear mathematical models in Simulink were extensively compared with the physical mechanism simulated in Simscape.
 
 ## 💡 Conclusion
 The linear Simulink model mathematically yields accurate results only within a strict "small-angle" boundary (θ₀ < 15°). In contrast, both the non-linear Simulink model and the Simscape model accurately simulated the physical free-fall behavior without any angle limitations.
