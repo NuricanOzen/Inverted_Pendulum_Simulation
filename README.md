@@ -3,9 +3,10 @@
 
 >  🇹🇷 Türkçe *Proje hataları fark edildikçe düzeltilecek ve proje sürekli olarak daha iyi hale getirilecektir.*
 
-**Language:** [English](#english) | [Türkçe](#türkçe)
+# Ters Sarkaç (Inverted Pendulum) - Analitik Analiz ve Simülasyon
 
-# Inverted Pendulum - Analytical Analysis & Simulation
+
+**Language:** [English](#english) | [Türkçe](#türkçe)
 <a id="english"></a>
 ## 🇬🇧 English
 
@@ -29,8 +30,6 @@ The linear Simulink model mathematically yields accurate results only within a s
 
 <a id="türkçe"></a>
 ## 🇹🇷 Türkçe
-
-# Ters Sarkaç (Inverted Pendulum) - Analitik Analiz ve Simülasyon
 
 Bu proje, bir sarkaç-araba (inverted pendulum) mekanizmasının kontrolörsüz serbest düşüş davranışını analitik olarak modellemek ve doğrulamak amacıyla geliştirilmiş bir grup projesidir.
 
